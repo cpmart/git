@@ -4,4 +4,8 @@ alert("segunda interação");
 
 alert("Hello world");
 
-alert("aaaaa")
+alert("aaaaa222");
+
+const teste = () => {
+    return 0;
+}
